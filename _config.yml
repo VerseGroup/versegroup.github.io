@@ -66,9 +66,9 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#342185"
+topbar_color                              : "#ffffff"
 topbar_transparency                       : 1.0
-topbar_title_color                        : "#ffffff"
+topbar_title_color                        : "#000000"
 
 cover_image                               : assets/galaxy.jpeg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#ffffff"
