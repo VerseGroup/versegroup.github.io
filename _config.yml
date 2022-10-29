@@ -35,25 +35,25 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Schedule
+    description                           : View your schedule for each day.
+    fontawesome_icon_name                 : calendar
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Tasks
+    description                           : Manage your homework assignments with an automatically synced to-do list.
+    fontawesome_icon_name                 : list-check
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Menus
+    description                           : Check what's for breakfast, lunch, and dinner. See nutritional and allergen info.
+    fontawesome_icon_name                 : utensils
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Sports
+    description                           : See games and where they're happening. 
+    fontawesome_icon_name                 : futbol
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Events
+    description                           : Stay informed on when and where events are happening at your school.
+    fontawesome_icon_name                 : school
   
   - title                                 : Feature List
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
