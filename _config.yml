@@ -59,10 +59,6 @@ features                                  :
     description                           : Join, manage, and stay informed on club meetings and events. 
     fontawesome_icon_name                 : people-simple
 
-  - title                                 : Privacy 
-    description                           : Your sensitive data is end-to-end encrypted. SchoolVerse's privacy policy outlines our safe handling of your data.
-    fontawesome_icon_name                 : hand
-
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
