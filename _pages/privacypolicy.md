@@ -4,21 +4,9 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-<div class="nav-box">
+**Last updated**
 
-[Home](index.html)
-
-</div>
-
-<div class="logo-box">![VerseGroup](images/logo.png)</div>
-
-<div class="logo-text-box">
-
-VerseGroup, LLC
-
-</div>
-
-<div class="privacy-box">
+Oct 28 2022
 
 # "VerseGroup" Privacy Policy
 
@@ -80,12 +68,9 @@ Contact Information:
 Email: info@versegroup.tech  
 Instagram: @schoolverse_app
 
-</div>
 
-<footer>
 
 © VerseGroup, LLC. All rights reserved.
 
 [Contact Us?](mailto:info@versegroup.tech)
 
-</footer>
