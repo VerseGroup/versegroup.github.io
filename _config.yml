@@ -57,7 +57,7 @@ features                                  :
   
   - title                                 : Clubs (Beta)
     description                           : Join, manage, and stay informed on club meetings and events. 
-    fontawesome_icon_name                 : person
+    fontawesome_icon_name                 : handshake
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
