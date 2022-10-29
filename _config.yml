@@ -20,14 +20,14 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : VerseGroup, LLC                                
+your_link                                 : versegroup.tech                     
+your_city                                 : Connecticut                                
+email_address                             : info@versegroup.tech
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : schoolverse_app
+twitter_username                          : 
+github_username                           : VerseGroup
 youtube_username                          :
 
 
@@ -70,7 +70,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#000000"
+topbar_color                              : "#342185"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
