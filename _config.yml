@@ -55,7 +55,7 @@ features                                  :
     description                           : Stay informed on when and where events are happening at your school.
     fontawesome_icon_name                 : school
   
-  - title                                 : Clubs (Beta)
+  - title                                 : Clubs
     description                           : Join, manage, and stay informed on club meetings and events. 
     fontawesome_icon_name                 : handshake
 
